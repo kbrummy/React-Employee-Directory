@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Scott",
+    "title": "Reginal Manager",
+    "birth": "February 5, 1973",
+    "email": "mscott@dundermifflin.com"
+  },
+  {
+    "id": 2,
+    "name": "Dwight Schrute",
+    "title": "Assistant Manager",
+    "birth": "May 13, 1980",
+    "email": "dschrute@dundermifflin.com"
+  },
+  {
+    "id": 3,
+    "name": "Jim Halpert",
+    "title": "Sales Associate",
+    "birth": "June 24, 1982",
+    "email": "jhalpert@dundermifflin.com"
+  },
+  {
+    "id": 4,
+    "name": "Pam Beasley",
+    "title": "Secretary",
+    "birth": "July 12, 1995",
+    "email": "pbeasley@dundermifflin.com"
+  },
+  {
+    "id": 5,
+    "name": "Stanley Hudson",
+    "title": "Sales Associate",
+    "birth": "September 9, 1979",
+    "email": "shudson@dundermifflin.com"
+  },
+  {
+    "id": 6,
+    "name": "Phyllis Lapin",
+    "title": "Sales Associate",
+    "birth": "October 15, 1985",
+    "email": "plapin@dundermifflin.com"
+  },
+  {
+    "id": 7,
+    "name": "Angela Martin",
+    "title": "Lead Accountant",
+    "birth": "September 3, 19883",
+    "email": "amartin@dundermifflin.com"
+  },
+  {
+    "id": 8,
+    "name": "Oscar Gutierrez",
+    "title": "Lead Accountant",
+    "birth": "February 2, 1985",
+    "email": "ogutierrez@dundermifflin.com"
+  },
+  {
+    "id": 9,
+    "name": "Kevin Malone",
+    "title": "Accountant",
+    "birth": "March 28, 1982",
+    "email": "kmalone@dundermifflin.com"
+  },
+  {
+    "id": 10,
+    "name": "Andy Bernard",
+    "title": "Sales Associate",
+    "birth": "March 27, 1986",
+    "email": "abernard@dundermifflin.com"
+  }
+]
