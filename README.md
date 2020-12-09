@@ -14,7 +14,7 @@ Note: the buttons still need to be linked to sort the cards.
 
 **************
 
-The URL to the deployed application:
+The URL to the deployed application: https://ancient-woodland-83161.herokuapp.com/
 
 
 The URL to the Github repository: https://github.com/kbrummy/React-Employee-Directory
